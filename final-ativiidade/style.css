@@ -1,0 +1,149 @@
+.container-caixa{
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    background-color: black;
+    list-style: none;
+}
+
+.caixa1{
+    height: 200px;
+    width: 200px;
+    background-color: #c5c5c5;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.container-button:hover{
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+.caixa2{
+    height: 200px;
+    width: 200px;
+    background-color: #c5c5c5;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.caixa3{
+    height: 200px;
+    width: 200px;
+    background-color: #c5c5c5;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.caixa4{
+    height: 200px;
+    width: 200px;
+    background-color: #c5c5c5;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.imagem{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    color: white;
+}
+
+
+.container-perfil{
+    color: #808080;
+    text-align: center;
+    font-size: 20px;
+    padding: 1px;
+    margin: 10px;
+}
+
+.titulo-principal{
+    background-color: black;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+    margin: 40px;
+}
+
+body{
+    background-color: black;
+    font-family: Helvetica, Arial, sans-serif; 
+}
+
+.titulo{
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    margin: 40px;
+    font-weight: bold;
+}
+
+.container-button{
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-sign{
+    background: black;
+    border: 1px solid white;
+    color: #fff;
+    height: 50px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 50px;
+    width: 250px;
+}
+
+section{
+    text-align: center;
+    padding: 20px;
+    margin: 40px;
+}
+
+.btn-sign:hover{
+    background-color: white;
+    color: black;
+}
+
+li:hover p{
+    color: white;
+    
+}
+
+li:hover img{
+    background-color: white;
+    border: 2px solid white;  
+    transform: scale(1)
+}
+
+
+ .container-card{
+    color: #808080;
+    text-align: center;
+    font-size: 20px;
+    border: none;
+    
+ }
+
+.selecao-perfil{
+    height: 30vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    list-style: none;
+}
